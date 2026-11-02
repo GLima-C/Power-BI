@@ -1,0 +1,9 @@
+
+Servidor	IP 
+Banco de dados	gambiarra 
+Usuário	root
+sem senha
+
+Projeto acadêmico de gestão de assistência técnica, desenvolvido com SQL e MySQL
+. Inclui modelagem de banco de dados relacional, cadastro de funcionários, aparelhos e consertos.
+Integração com Power BI em desenvolvimento para criação de dashboards e análise de indicadores operacionais.
